@@ -38,6 +38,9 @@
 		E0074310185D615900F6C27C /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E007430F185D615900F6C27C /* MainViewController.m */; };
 		E0074312185D615900F6C27C /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0074311185D615900F6C27C /* MainViewController.xib */; };
 		E0074316185D615900F6C27C /* verify.sh in Resources */ = {isa = PBXBuildFile; fileRef = E0074315185D615900F6C27C /* verify.sh */; };
+		E007431D185D619000F6C27C /* www in Resources */ = {isa = PBXBuildFile; fileRef = E007431C185D619000F6C27C /* www */; };
+		E007431F185D638A00F6C27C /* 56x56.png in Resources */ = {isa = PBXBuildFile; fileRef = E007431E185D638A00F6C27C /* 56x56.png */; };
+		E0074321185D639200F6C27C /* Ladybug.png in Resources */ = {isa = PBXBuildFile; fileRef = E0074320185D639200F6C27C /* Ladybug.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +81,9 @@
 		E0074311185D615900F6C27C /* MainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainViewController.xib; path = Classes/MainViewController.xib; sourceTree = "<group>"; };
 		E0074314185D615900F6C27C /* README */ = {isa = PBXFileReference; lastKnownFileType = text; name = README; path = Plugins/README; sourceTree = "<group>"; };
 		E0074315185D615900F6C27C /* verify.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = verify.sh; sourceTree = "<group>"; };
+		E007431C185D619000F6C27C /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
+		E007431E185D638A00F6C27C /* 56x56.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 56x56.png; sourceTree = "<group>"; };
+		E0074320185D639200F6C27C /* Ladybug.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ladybug.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +121,9 @@
 		E00742B5185D615600F6C27C = {
 			isa = PBXGroup;
 			children = (
+				E0074320185D639200F6C27C /* Ladybug.png */,
+				E007431E185D638A00F6C27C /* 56x56.png */,
+				E007431C185D619000F6C27C /* www */,
 				E00742DE185D615700F6C27C /* Garga Puzzle */,
 				E00742C3185D615600F6C27C /* Frameworks */,
 				E00742C2185D615600F6C27C /* Products */,
@@ -330,6 +339,9 @@
 				E0074309185D615800F6C27C /* Cordova.plist in Resources */,
 				E0074312185D615900F6C27C /* MainViewController.xib in Resources */,
 				E0074316185D615900F6C27C /* verify.sh in Resources */,
+				E007431D185D619000F6C27C /* www in Resources */,
+				E007431F185D638A00F6C27C /* 56x56.png in Resources */,
+				E0074321185D639200F6C27C /* Ladybug.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -558,6 +570,7 @@
 				E007431B185D615900F6C27C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

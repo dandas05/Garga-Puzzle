@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns        = "http://www.w3.org/ns/widgets"
+        xmlns:gap        = "http://phonegap.com/ns/1.0"
+        id                    = "com.garga-puzzle.Garga_Puzzle"
+        version         = "1.0">
+
+        <name>Garga Puzzle</name>
+
+        <description>
+        Just a puzzle game!
+        </description>
+
+        <author href="http://www.froflor.com/garga" email="support@fruflor.com">
+                Daniel Germanov
+        </author>
+
+</widget>
