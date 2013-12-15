@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Garga Puzzle' target in the 'Garga Puzzle' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
